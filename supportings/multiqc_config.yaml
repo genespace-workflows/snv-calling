@@ -1,0 +1,15 @@
+qualimap_config:
+  general_stats_coverage:
+    - 1
+    - 5
+    - 10
+    - 20   
+    - 30
+    - 50
+  general_stats_coverage_hidden:
+    - 1
+    - 5
+    - 10
+    - 50   
+
+
