@@ -1,4 +1,4 @@
-# Whole Exome Sequencing (WES) Analysis Pipeline
+# SNV and SV calling Pipeline
 
 A comprehensive **Nextflow-based workflow** for processing and analyzing **Whole Exome Sequencing (WES)** data from NGS platforms.
 
